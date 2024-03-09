@@ -5,7 +5,7 @@
 title: Yoddha
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Webster
-# baseurl: The subpath of your site
+# baseurl: The subpath of your site where it is located
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/"
 
