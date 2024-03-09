@@ -2,7 +2,11 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
+<<<<<<< HEAD
 title: Well Buster
+=======
+title: Yoddha
+>>>>>>> 01e00c73 (3rd commit)
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Webster
 # baseurl: The subpath of your site
@@ -14,7 +18,11 @@ baseurl: "/"
 username: websterghoul
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
+<<<<<<< HEAD
 typing_text: Welcome to yodhaaa git
+=======
+typing_text: Cyber Security, Scroll for more contents
+>>>>>>> 01e00c73 (3rd commit)
 # email: Your E-Mail address for the email button.
 email: websterghoul22@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +42,11 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
+<<<<<<< HEAD
 about_me_description: Its more than ever
+=======
+about_me_description: Its always more than ever
+>>>>>>> 01e00c73 (3rd commit)
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
